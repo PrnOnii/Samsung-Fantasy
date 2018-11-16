@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["What difficulty do you want to play?"]},{"code":102,"indent":0,"parameters":[["Easy","Normal"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Easy"]},{"code":316,"indent":1,"parameters":[0,1,0,0,3,false]},{"code":316,"indent":1,"parameters":[0,2,0,0,2,false]},{"code":316,"indent":1,"parameters":[0,3,0,0,4,false]},{"code":316,"indent":1,"parameters":[0,4,0,0,3,false]},{"code":314,"indent":1,"parameters":[0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Normal"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":126,"indent":0,"parameters":[1,0,0,10]},{"code":126,"indent":0,"parameters":[2,0,0,3]},{"code":126,"indent":0,"parameters":[7,0,0,1]},{"code":126,"indent":0,"parameters":[10,0,0,5]},{"code":126,"indent":0,"parameters":[4,0,0,1]},{"code":126,"indent":0,"parameters":[12,0,0,1]},{"code":126,"indent":0,"parameters":[13,0,0,5]},{"code":126,"indent":0,"parameters":[14,0,0,5]},{"code":126,"indent":0,"parameters":[15,0,0,5]},{"code":126,"indent":0,"parameters":[16,0,0,5]},{"code":0,"indent":0,"parameters":[]}],"name":"NewGameEvent","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
